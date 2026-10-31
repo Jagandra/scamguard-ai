@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "ScamGuard AI",
+  "version": "1.0",
+  "description": "Explains suspicious web links in plain English.",
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "permissions": ["activeTab"]
+}
